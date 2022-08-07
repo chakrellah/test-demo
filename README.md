@@ -8,6 +8,5 @@
 ## chapter 2
 
 [] learning docker containers
-[] AWS solution architect associate
- HELLO
+[] AWS solution architect
  
