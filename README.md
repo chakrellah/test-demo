@@ -7,4 +7,6 @@
 
 ## chapter 2
 
-[] create todo list
+[] learning docker containers
+[] AWS solution architect
+ 
